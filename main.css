@@ -1,0 +1,12 @@
+.orbit {
+        stroke : #000000;
+        fill : none;
+        }
+.planet {
+        stroke : black;
+        fill : black;
+        }
+.sun {
+      stroke : yellow;
+      fill : yellow;
+        }
